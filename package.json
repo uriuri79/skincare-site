@@ -1,0 +1,25 @@
+{
+  "name": "skincare-site",
+  "version": "1.0.0",
+  "description": "web-project from Figma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uriuri79/skincare-site.git"
+  },
+  "author": "Yuri Yartsev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uriuri79/skincare-site/issues"
+  },
+  "homepage": "https://github.com/uriuri79/skincare-site#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.10",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify-es": "^3.0.0"
+  }
+}
